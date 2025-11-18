@@ -1,6 +1,7 @@
-##Author: Nirmal Shanker
-##Author: mailId-nirmal.elex@gmail.com
+##Author Name: Nirmal Shanker
+##Author email-Id: nirmal.elex@gmail.com
 ##Date: 11-11-2025
+##This shell script is for bascially docker installation with run container 
 
 
 << SmallProject

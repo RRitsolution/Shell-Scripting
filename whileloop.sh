@@ -9,7 +9,7 @@ Author email - nirmal.elex@gmail.com
 
 Script date-11/11/2025
 
-This script is written for loop function
+This script is written for while loop function
 
 Nirmal
 
@@ -31,3 +31,15 @@ do
 done
 
 
+
+
+count=1
+
+while [ $count -le 1000 ]
+       do
+            echo "count is $count"
+
+              ((count++))
+
+
+done
