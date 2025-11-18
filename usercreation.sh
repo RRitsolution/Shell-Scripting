@@ -7,7 +7,7 @@
 << EOF
 
 
-This is completely devops shell scipting leaning 
+This is completely devops shell scipting learning 
 
 EOF
 
